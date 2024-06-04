@@ -1,11 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"><b>WAHID MD</b>
+<h1 align="center"><b>ULTRA MD</b>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Black+Panther+MD+Created+By+Ibrahim..&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+ULTRA+MD+Created+By+WAHIDTK..&heart;++;Self-taught+Back-Created+By,;ULTRA+MD+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/ec8ce4af1d8fa3271e26a.jpg" alt="01" border="0" /></a>     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/77d77a1ad4dab2c44d839.jpg" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 ![Aaaaand many more](res/readme/context.gif)
@@ -13,7 +13,7 @@
  ## Join my channel for updates and get free cc
 
 
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+<a href="https://whatsapp.com/919037015745" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -37,12 +37,12 @@
 
 <br>
 
-<p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
+<p align=""><a href="https://repl.it/github/waahidtk/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
 
 <br>
 
 
-[![FORK WAHID-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
+[![FORK ULTRA-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/waahidtk/BLACK-PANTHER-XMD/fork)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -70,7 +70,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br/> <div align="center">
-[![github](https://github.com/github.png?size=100)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/heroku.png?size=100)](#click-here-to-deploy)[![replit](https://github.com/replit.png?size=100)](https://github.com/ibrahimaitech) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://ibrahimaitech)[![bot](https://github.com/youtube.png?size=89)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/facebook.png?size=89)](https://ibrahimaitech)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/ibrahimaitech)<br/>
+[![github](https://github.com/github.png?size=100)](https://github.com/waahidtk)[![Heroku](https://github.com/heroku.png?size=100)](#click-here-to-deploy)[![replit](https://github.com/replit.png?size=100)](https://github.com/waahidtk) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://waahidtk)[![bot](https://github.com/youtube.png?size=89)](https://github.com/waahidtk)[![Heroku](https://github.com/facebook.png?size=89)](https://waahidtk)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/waahidtk)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/waahidtk)<br/>
 </div>
 ## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
 
