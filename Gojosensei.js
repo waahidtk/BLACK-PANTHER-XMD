@@ -3304,7 +3304,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Black Panther MD🎉
+┌┤✑  ULTRA MD🎉
 ││✑  🐦🖐️!!
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
@@ -3326,12 +3326,12 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 }
                             }, {
                             	urlButton: {
-                                displayText: '🦋⃝❉⃟࿔ꦿ𝙱𝙻𝙰𝙲𝙺 𝙿𝙰𝙽𝚃𝙷𝙴𝚁 𝚂𝙲𝚁𝙸𝙿𝚃🌹⃝✥⃟☺️᭄ꦿ',
+                                displayText: '🦋⃝❉⃟࿔ꦿ ULTRTA MD🌹⃝✥⃟☺️᭄ꦿ',
                                     url: `${sc}`
                                 }
                                 }, {
                                 quickReplyButton: {
-                                    displayText: '💎⃝♡꧂ᘝᘞList Menu🦋⃝❉⃟࿔ꦿ',
+                                    displayText: '💎⃝♡꧂ᘝᘞLIST MENU🦋⃝❉⃟࿔ꦿ',
                                     id: `${prefix}command`
                                 }
                                 }, {
@@ -3360,7 +3360,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 *╚═══❖•ೋ°°ೋ•❖═══╝*
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  BLACK PANTHER MD
+┌┤✑  ULTRA MD
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
 │✙ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
@@ -3391,12 +3391,12 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 }
                             }, {
                             	urlButton: {
-                                displayText: '🦋⃝❉⃟࿔ꦿ𝙱𝙻𝙰𝙲𝙺 𝙿𝙰𝙽𝚃𝙷𝙴𝚁Script✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣',
+                                displayText: '🦋⃝❉⃟࿔ꦿ ULTRA MD ✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣',
                                     url: `${sc}`
                                 }
                                 }, {
                                 quickReplyButton: {
-                                    displayText: '🌹⃝✥⃟☺️᭄ꦿList Menu⭐❤️⃝😒ꦿ࿔',
+                                    displayText: '🌹⃝✥⃟☺️᭄ꦿ LIST MENU ⭐❤️⃝😒ꦿ࿔',
                                     id: `${prefix}command`
                                 }
                                 }, {
