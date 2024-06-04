@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"><b>𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙈𝘿 ✅𝗩𝗫5</b>
+<h1 align="center"><b>WAHID MD</b>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Black+Panther+MD+Created+By+Ibrahim..&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
@@ -42,7 +42,7 @@
 <br>
 
 
-[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
+[![FORK WAHID-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
